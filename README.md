@@ -17,3 +17,17 @@ Developing this game provided me with valuable experience and skills in:
 CSS: Designing a visually striking and responsive user interface that complements the dark theme.
 Audio Integration: Implementing sound effects to enhance the game's atmosphere and player immersion.
 Random Password Selection: Implementing a system to randomly select passwords from a pool, enhancing gameplay variety.
+
+
+**[Try It!](https://jakub-laska.github.io/Hangman-game/)**
+<!-- 
+_______/\\\\\\\_______/\\\_____________        
+ ______\/////\\\______\/\\\_____________       
+  __________\/\\\______\/\\\_____________      
+   __________\/\\\______\/\\\_____________     
+    __________\/\\\______\/\\\_____________    
+     __________\/\\\______\/\\\_____________   
+      ___/\\\___\/\\\______\/\\\_____________  
+       __\//\\\\\\\\\_______\/\\\\\\\\\\\\\___ 
+        ___\/////////________\/////////////____ 
+-->
